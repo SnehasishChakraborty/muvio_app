@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/muvio/static/css/main.87aecc07.chunk.css",
+    "main.js": "/muvio/static/js/main.1ee7fe94.chunk.js",
+    "main.js.map": "/muvio/static/js/main.1ee7fe94.chunk.js.map",
+    "runtime-main.js": "/muvio/static/js/runtime-main.b70fa206.js",
+    "runtime-main.js.map": "/muvio/static/js/runtime-main.b70fa206.js.map",
+    "static/js/2.1f9a7003.chunk.js": "/muvio/static/js/2.1f9a7003.chunk.js",
+    "static/js/2.1f9a7003.chunk.js.map": "/muvio/static/js/2.1f9a7003.chunk.js.map",
+    "static/js/3.9fd9463c.chunk.js": "/muvio/static/js/3.9fd9463c.chunk.js",
+    "static/js/3.9fd9463c.chunk.js.map": "/muvio/static/js/3.9fd9463c.chunk.js.map",
+    "index.html": "/muvio/index.html",
+    "static/css/main.87aecc07.chunk.css.map": "/muvio/static/css/main.87aecc07.chunk.css.map",
+    "static/js/2.1f9a7003.chunk.js.LICENSE.txt": "/muvio/static/js/2.1f9a7003.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b70fa206.js",
+    "static/js/2.1f9a7003.chunk.js",
+    "static/css/main.87aecc07.chunk.css",
+    "static/js/main.1ee7fe94.chunk.js"
+  ]
+}
